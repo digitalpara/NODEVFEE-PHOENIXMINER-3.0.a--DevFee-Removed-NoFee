@@ -32,5 +32,7 @@ DevFee Phoenixminer 3.0.A Remove Remove DevFee Phoenixminer 3.0.A
 
 
 1:START FiRST Nodevfee.exe 
+
 2:PLACE YOUR WALLET ADRESS START_MINER.BAT THEN
+
 3:START_MINER.BAT AND BEGIN WITH MINING
