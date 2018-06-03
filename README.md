@@ -1,5 +1,5 @@
-# NODEVFEE-PHOENIXMINER-3.0.b--DevFee-Removed-NoFee
-NODEVFEE-PHOENIXMINER-3-0-b-DevFee-Removed - Auto Start first nodevfee then Phoenixminer-Download : https://mirrorace.com/m/1r5on
+# NODEVFEE-PHOENIXMINER-3.0.c--DevFee-Removed-NoFee
+NODEVFEE-PHOENIXMINER-3-0-c-DevFee-Removed - Auto Start first nodevfee then Phoenixminer-Download : https://mirrorace.com/m/1r5on
 
 Auto Start first  nodevfee then Phoenixminer 3.0.B just start nodevfee and then mining software phoenixminer.
 
@@ -13,21 +13,21 @@ Run it for at least 24 hours so that pool statistics even out from downtime wher
 
 Tips ETH : 0x7F5BB53c415334235a9E42eA03695F11b6553C0D Phoenixminer 3.0.B.Phoenixminer 3.0.A Miner
 
-Phoenixminer Phoenixminer 3.0.B Ethereum Miner No Fee
+Phoenixminer Phoenixminer 3.0.A.B.C Ethereum Miner No Fee
 
-Phoenixminer Phoenixminer 3.0.B No Fee
+Phoenixminer Phoenixminer 3.0.C No Fee
 
-Phoenixminer Phoenixminer 3.0.B No Fee
+Phoenixminer Phoenixminer 3.0.C No Fee
 
-Phoenixminer Phoenixminer 3.0.B Miner Nvidia Ethereum
+Phoenixminer Phoenixminer 3.0.C Miner Nvidia Ethereum
 
-Phoenixminer Phoenixminer 3.0.B Miner Ethereum 2.8 
+Phoenixminer Phoenixminer 3.0.C Miner Ethereum 2.8 
 
-Phoenixminer 3.0.b Ethereum
+Phoenixminer 3.0.C Ethereum
 
- Phoenixminer 3.0.B No Fee Miner
+Phoenixminer 3.0.C No Fee Miner
 
-DevFee Phoenixminer 3.0.B Remove Remove DevFee Phoenixminer 3.0.B
+DevFee Phoenixminer 3.0.C Remove Remove DevFee Phoenixminer 3.0.A.B.C
 
 
 
@@ -39,7 +39,7 @@ DevFee Phoenixminer 3.0.B Remove Remove DevFee Phoenixminer 3.0.B
 
 
 
-Note that this is not an official release yet. The changes from 3.0a are:
+Note that this is not an official release yet. The changes from 3.0c are:
 
 Added option -gsi to set the speed stats interval (5-30 seconds, default 5; 0 turns off the speed stats). The detailed stats are still shown every 45 seconds and aren't affected by the -gsi value
 
