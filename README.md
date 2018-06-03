@@ -41,6 +41,14 @@ DevFee Phoenixminer 3.0.C Remove Remove DevFee Phoenixminer 3.0.A.B.C
 
 Note that this is not an official release yet. The changes from 3.0c are:
 
+Note that this is not an official release yet. The changes from 3.0b are:
+Fixed problems with -gsi option causing lower average and reported hashrate
+Fixed remaining problems with -minrigspeed during or immediately after auto-tuning
+Fixed showing too high hashate of specific GPU(s) (it didn't affect the average and reported hashrate but still was quite annoying)
+Fixed some other small issues
+
+   For reference, these were the new features and changes in 3.0a and 3.0b:
+   
 Added option -gsi to set the speed stats interval (5-30 seconds, default 5; 0 turns off the speed stats). The detailed stats are still shown every 45 seconds and aren't affected by the -gsi value
 
 Fixed crashing with Vega cards with AMD drivers 18.4.1 and newer
